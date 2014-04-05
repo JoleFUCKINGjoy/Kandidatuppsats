@@ -1,0 +1,3 @@
+To compile the file with citations:
+
+pandoc Uppsats.md -o Uppsats.docx --bibliography Kandidatuppsats.bib
